@@ -1,4 +1,4 @@
-# Handmade Marketplace(A multi venodor ecommerce system)
+# Handmade Marketplace(A multi vendor ecommerce system)
 
 An e-commerce platform for handmade goods with role-based access control for customers, vendors, and admins, offering a secure and user-friendly shopping and management experience.
 
